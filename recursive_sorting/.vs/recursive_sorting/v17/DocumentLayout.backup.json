@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VivoBook 15X\\Desktop\\C#\\\u041E\u0441\u043D\u043E\u0432\u044B \u0410\u043B\u0433\u0430\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\recursive_sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}|recursive_sorting.csproj|c:\\users\\vivobook 15x\\desktop\\c#\\\u043E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u0430\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\recursive_sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}|recursive_sorting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook 15X\\Desktop\\C#\\\u041E\u0441\u043D\u043E\u0432\u044B \u0410\u043B\u0433\u0430\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\recursive_sorting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VivoBook 15X\\Desktop\\C#\\\u041E\u0441\u043D\u043E\u0432\u044B \u0410\u043B\u0433\u0430\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\recursive_sorting\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:39:42.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

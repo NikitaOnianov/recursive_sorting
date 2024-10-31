@@ -1,0 +1,7 @@
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\bin\Debug\recursive_sorting.exe.config
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\bin\Debug\recursive_sorting.exe
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\bin\Debug\recursive_sorting.pdb
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\obj\Debug\recursive_sorting.csproj.AssemblyReference.cache
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\obj\Debug\recursive_sorting.csproj.CoreCompileInputs.cache
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\obj\Debug\recursive_sorting.exe
+C:\Users\VivoBook 15X\Desktop\C#\Основы Алгаритмизации\recursive_sorting\obj\Debug\recursive_sorting.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_sorting", "recursive_sorting.csproj", "{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8EF0C0-9135-4A52-AE2D-A72C6DC965E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B97F1AB-F2C4-4ECE-B4F3-5A30D8A8232E}
+	EndGlobalSection
+EndGlobal
